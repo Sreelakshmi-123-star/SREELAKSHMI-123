@@ -2,7 +2,7 @@
 
 > *Learning how systems work. Building the skills to manage them better.*
 
-I'm an **MCA graduate** focused on building a career in **Linux System Administration and DevOps**.
+I'm an **MCA graduate** focused on building a career in **Linux System Administration , Cloud and DevOps**.
 
 I'm currently strengthening my hands-on skills in **Linux, RHEL, networking, system administration, shell scripting, SSH, storage, security, and containerization** while preparing for professional roles in the Linux/IT infrastructure space.
 
