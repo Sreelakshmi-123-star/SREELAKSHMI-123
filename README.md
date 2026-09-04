@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sree
+# 👋 Hi, I'm Sreelakshmi PM
 
 > *Learning how systems work. Building the skills to manage them better.*
 
